@@ -1,20 +1,16 @@
 {
   "mappings": [
-    "/content/luma3/language-masters/en:/",
-    "/content/luma3/language-masters/en/:/en/",
-    "/content/luma3/language-masters/fr/:/fr/",
-    "/content/luma3/language-masters/fr:/fr",
-    "/content/luma3/language-masters/es/:/es/",
-    "/content/luma3/language-masters/es:/es",
-    "/content/luma3/language-masters/ja/:/ja/",
-    "/content/luma3/language-masters/ja:/ja",
-    "/content/luma3/language-masters/de/:/de/",
-    "/content/luma3/language-masters/de:/de",
-    "/content/luma3/configuration:/.helix/config.json",
-    "/content/luma3/metadata:/metadata.json",
-    "/content/luma3/redirects:/redirects.json",
-    "/content/luma3/placeholders:/placeholders.json",
-    "/content/luma3/custom-events:/custom-events.json"
+    "/content/saharan-saharan-2026-1-15-11-30-9/language-masters/en:/",
+    "/content/saharan-saharan-2026-1-15-11-30-9/language-masters/en/:/",
+    "/content/saharan-saharan-2026-1-15-11-30-9/language-masters/en/:/en/",
+    "/content/saharan-saharan-2026-1-15-11-30-9/configuration:/.helix/config.json",
+    "/content/saharan-saharan-2026-1-15-11-30-9/metadata:/metadata.json",
+    "/content/saharan-saharan-2026-1-15-11-30-9/redirects:/redirects.json",
+    "/content/saharan-saharan-2026-1-15-11-30-9/placeholders:/placeholders.json",
+    "/content/saharan-saharan-2026-1-15-11-30-9/custom-events:/custom-events.json"
   ],
-  "includes": ["/content/luma3/", "/content/dam/luma3/"]
+  "includes": [
+    "/content/saharan-saharan-2026-1-15-11-30-9/",
+    "/content/dam/saharan-saharan-2026-1-15-11-30-9/"
+  ]
 }
